@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "396214903905",
+    "project_id": "agenda-virtual-acca1",
+    "storage_bucket": "agenda-virtual-acca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396214903905:android:8b074978c869258870f620",
+        "android_client_info": {
+          "package_name": "com.gabrielkreischer.agendavirtal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396214903905-90mio7vokq6dtsju9obsg8kvdbuaal42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabrielkreischer.agendavirtal",
+            "certificate_hash": "956851124a8acbab45b13a0145c32e8814d06de6"
+          }
+        },
+        {
+          "client_id": "396214903905-kuih7cuupau34j1qkj3kh8vdoefalcdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4gecKUFjit9PIJ3hlOvZQ2pDV9d5dC0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396214903905-kuih7cuupau34j1qkj3kh8vdoefalcdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396214903905:android:2895f421c048dabe70f620",
+        "android_client_info": {
+          "package_name": "com.gabrielkreischer.agendavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396214903905-kuih7cuupau34j1qkj3kh8vdoefalcdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4gecKUFjit9PIJ3hlOvZQ2pDV9d5dC0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396214903905-kuih7cuupau34j1qkj3kh8vdoefalcdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
